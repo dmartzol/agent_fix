@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "quickfix-jruby", "~>1.6.0"
 gem "anticipate"
-gem "cucumber", "~> 2.0"
+gem "cucumber", "~> 7.0"
 gem "fix_spec", "~> 1.0.0"
 gem "rspec", "~> 3.0"
 
